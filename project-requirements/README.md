@@ -30,7 +30,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 - Design and use data objects that are created via a design pattern and inherit from at least one other class.
 - Create objects in memory from a saved text file.
 - Update the text file to reflect changes to objects.
-- Implement at least one Singelton pattern (data manager, logger, etc.).
+- Implement at least one Singleton pattern (data manager, logger, etc.).
 - Implement at least one Builder or Factory pattern, as appropriate to your objects. 
 - Create at least three interfaces for your objects to inherit from.
 - Create at least two abstract classes for you objects to inherit from.
