@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Project Requirements](./assets/hero.png)
+# ![[Data Management System] - Project Requirements](./assets/hero.png)
 
 ## Overview
 
@@ -40,7 +40,7 @@ A printable version of the project requirements can be found [here](./assets/pro
     - Find objects based on their properties.
     - Update existing objects.
     - Close the application. 
-- The app is deployed online so that the rest of the world can use it.
+- There is a runnable JAR file that allows users to download and run the project.
 
 ### Code convention
 
@@ -73,7 +73,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 - **Screenshot/Logo**: A screenshot of your app or a logo.
 - **Your app's name**: Include a description of your app and its functionality. Background info about the app and why you built it is a nice touch.
-- **Getting started**: This section should include a link to your deployed app. It should also contain a link to your planning materials.
+- **Getting started**: This section should include instructions on how to use your app. It should also contain a link to your planning materials.
 - **Attributions**: This section should include links to any external resources (such as libraries or assets) you used to develop your application that require attribution. You can exclude this section if it does not apply to your application.
 - **Technologies used**: List the principal technologies used by your application, for example: JavaScript and any major frameworks or libraries.
 - **Next steps**: Planned future enhancements (stretch goals).
