@@ -28,7 +28,7 @@ The fun part! Start building your project! The printable [project requirements P
 
 ## 4. Deploy the work you have so far
 
-During project week, you'll deploy your project to the internet and submit a link to your deployed app. See the [[tktk Module Name] Deliverables](../project-deliverables/README.md) for more details.
+During project week, you'll deploy your project to the internet and submit a link to your deployed app. See the [[Data Management System] Deliverables](../project-deliverables/README.md) for more details.
 
 Continue working on your project until presentation day.
 
