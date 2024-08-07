@@ -2,12 +2,12 @@
 
 ## About
 
-This module focuses on the fundamentals of Java - classes, objects, function, and handling data. 
-The project for this module is the creation of dictionary application that can store dictionary entries and be manipulated by the user. 
+This module focuses on Java project design - inhertiance, polymorphism, abstract classes, interfaces, design patterns, and test-driven development. 
+The project for this module is the creation of database management system that can store and create custom data objects that can be manipulated by the user. 
 
 ## Prerequisites
 
-Students should be able to use variables and collections, manage user input, write functions, use control flow, create classes and bojects, handle exceptions, and debug in Java. 
+Students should be able to use variables and collections, manage user input, write functions, use control flow, create classes and objects, handle exceptions, debug, exhibit inheritance and polymorphism using interfaces and abstract classes, use design patterns, and develop via test-driven development in Java. 
 
 ## Content
 
