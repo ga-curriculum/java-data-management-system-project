@@ -14,13 +14,13 @@ Before you start planning, review the [project requirements](../project-requirem
 
 ## 1. Project planning
 
-Project week starts with project planning. For more details and the specific requirements, see the [[tktk Module Name] Deliverables](../project-deliverables/README.md).
+Project week starts with project planning. For more details and the specific requirements, see the [[Data Management System] Deliverables](../project-deliverables/README.md).
 
 When you submit your project planning materials your proposal will either be approved, or you'll receive feedback and be asked to make adjustments before a final approval can be given.
 
 ## 2. Create a GitHub repo
 
-Once your project proposal is approved, create the public GitHub repo that you'll use for the project. See the [[tktk Module Name] Deliverables](../project-deliverables/README.md) for more details.
+Once your project proposal is approved, create the public GitHub repo that you'll use for the project. See the [[Data Management System] Deliverables](../project-deliverables/README.md) for more details.
 
 ## 3. Build the project
 
