@@ -42,8 +42,8 @@ A printable version of the project requirements can be found [here](./assets/pro
 - When an existing object is updated, the app saves the updated data back to the data file, replacing the old data.
 - When an existing object is deleted, the app removes the data from the data file.
 - When launched, the app should read the data file and use it to create objects in memory.
-- The GitHub repo for the project contains a runnable JAR file that allows users to download and run the project.
 - Unit tests should exist for each piece of functionality present in the app.
+- The GitHub repo for the project contains a runnable JAR file that allows users to download and run the project.
 - You are shown as the only contributor to the project on GitHub.
 - Present your project in front of the class on the scheduled presentation day.
 
