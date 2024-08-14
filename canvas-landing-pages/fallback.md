@@ -5,7 +5,7 @@
 
 ## About
 
-This project focuses on Java project design - inheritance, polymorphism, abstract classes, interfaces, design patterns, and test-driven development. The goal of this project is to create a data management system that can store and create custom data objects that can be manipulated by the user.
+This project focuses on Java project design, including inheritance, polymorphism, abstract classes, interfaces, design patterns, and test-driven development. The goal of this project is to create a data management system that can store and create custom data objects that can be manipulated by the user.
 
 ## Content
 

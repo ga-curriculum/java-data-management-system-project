@@ -5,17 +5,15 @@
 
 ## Overview
 
-Data Management System
-
-The goal of this project is to build a system that manages a type of data of your choice, allowing users to create, read, update, and delete customizable objects. The application will utilize the concepts learned in Java, such as data types, variables, control flow, loops, methods, scopes, arrays, ArrayLists, object-oriented programming (OOP), exception handling, file I/O, inheritance, polymorphism, abstract classes, interfaces, design patterns, and test-driven development.
+The goal of this project is to build a system that manages a type of data of your choice, allowing users to create, read, update, and delete customizable objects. The application will utilize foundational Java concepts, such as data types, variables, control flow, loops, methods, scope, arrays, ArrayLists, object-oriented programming (OOP), exception handling, file I/O, inheritance, polymorphism, abstract classes, interfaces, design patterns, and test-driven development.
 
 The data management system will be a command-line interface (CLI) program that runs in the console without a graphical user interface (GUI). Users will interact with the application by typing commands and receiving text-based output.
 
-The goal of this project is to show off design patterns and inheritance among many objects! Pick what type of data you plan on building around accordingly. Choose from:
+This project is all about showing off design patterns and inheritance among many objects! Pick what type of data you plan on building around accordingly. Choose from:
 
-- An employee management system used to track a variety of features of an organization's employees (title, salary, hire date, etc.)
-- A car dealership management system that stores business information about various cars (make, model, sale date, etc.)
-- A zoo management system, with relevant information for the keepers for organizing their zoo (carnivore/omnivore/herbivore, group/solitary, etc.)
+- An employee management system used to track various features of an organization's employees (title, salary, hire date, etc.).
+- A car dealership management system that stores business information about various cars (make, model, sale date, etc.).
+- A zoo management system with relevant information for the keepers to help organize their zoo (carnivore/omnivore/herbivore, group/solitary, etc.).
 - Another management system of your choice, as long as it will meet the project requirements!
 
 ***You will work individually on this project***.
@@ -28,7 +26,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 ### MVP (Minimum Viable Product)
 
-> ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your app must fulfill the below requirements.
+> ✅ Any items marked incomplete in this section will result in the project receiving a failing grade. Your app must fulfill the below requirements.
 
 - Create at least three interfaces for your objects to inherit from.
 - Create at least two abstract classes for your objects to inherit from.
@@ -41,15 +39,15 @@ A printable version of the project requirements can be found [here](./assets/pro
 - Users can delete specific objects.
 - Users can gracefully close the application.
 - When an object is created, the app saves it to a data file.
-- When an existing object is updated the app saves the updated data back to the data file, replacing the old data.
-- When an existing object is deleted the app removes the data from the data file.
+- When an existing object is updated, the app saves the updated data back to the data file, replacing the old data.
+- When an existing object is deleted, the app removes the data from the data file.
 - When launched, the app should read the data file and use it to create objects in memory.
-- There is a runnable JAR file that allows users to download and run the project.
+- The GitHub repo for the project contains a runnable JAR file that allows users to download and run the project.
 - Unit tests for all functionality present in the app.
 
 ### Code convention and UI/UX
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your app must fulfill the below requirements.
+> ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade. If two or fewer items are marked incomplete, the project is considered passing. Your app must fulfill the below requirements.
 
 - The files in the app are organized following the conventions demonstrated in lectures.
 - The code in the app adheres to coding conventions demonstrated in lecture, like using plural names for arrays.
@@ -60,7 +58,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 ### Git and GitHub
 
-> ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your interactions with Git and GitHub must fulfill the below requirements.
+> ✅ Any items marked incomplete in this section will result in the project receiving a failing grade. Your interactions with Git and GitHub must fulfill the below requirements.
 
 - You are shown as the only contributor to the project on GitHub.
 - The GitHub repository used for the project must be named appropriately. For example, names like employee-management-system or library-system are appropriate, whereas ga-project is not. The repo must be publicly accessible. ***Be sure to create the repo on your personal GitHub account and ensure it is public.***
@@ -68,7 +66,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 ### README requirements
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your README must contain the items or sections below.
+> ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade. If two or fewer items are marked incomplete, the project is considered passing. Your project's README must contain the items or sections below.
 
 - Your app's name.
 - A brief description of your app and its functionality.
@@ -78,7 +76,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 ### Presentation requirements
 
-> ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them.
+> ✅ Any items marked incomplete in this section will result in the project receiving a failing grade.
 
 - Present your project in front of the class on the scheduled presentation day.
 
