@@ -9,4 +9,4 @@ Set up a ***public*** GitHub repo that you'll use for your project.
 
 ## Submitting your GitHub repo link
 
-Submit a link to the ***public*** GitHub repo that you are using for your Java data management system application below.
+Submit a link to the ***public*** GitHub repo that you are using for your this project below.

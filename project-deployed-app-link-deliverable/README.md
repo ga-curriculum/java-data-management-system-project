@@ -22,4 +22,4 @@ How to create a JAR file with IntelliJ IDEA:
 
 ## Submitting your deployed app link
 
-Deploy your project by following the guide above. Submit a link to the ***public*** GitHub repo that contains the JAR file for your Java data management system application below.
+Deploy your project by following the guide above. Submit a link to the ***public*** GitHub repo that contains the JAR file for this project below.
