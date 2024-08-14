@@ -24,7 +24,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 ## Project requirements
 
-### Minimum Requirements
+### Minimum requirements
 
 > ✅ Any items marked incomplete in this section will result in the project receiving a failing grade.
 
@@ -47,7 +47,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 - You are shown as the only contributor to the project on GitHub.
 - Present your project in front of the class on the scheduled presentation day.
 
-### Code convention and UI/UX
+### Code convention and UI/UX requirements
 
 > ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade.
 
