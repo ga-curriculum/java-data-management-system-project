@@ -1,37 +1,28 @@
-# ![Data Management System - Project Journey](./assets/hero.png)
+<h1>
+  <span class="headline">Java Data Management System Project</span>
+  <span class="subhead">Project Journey</span>
+</h1>
 
-Project week is when students typically learn the most. During this week you'll have fewer lectures and deliverables that are not related to your project. Instead, you'll primarily be self-directed to plan, build, and complete your project.
+Project time is when students typically learn the most. During this time, you'll be self-directed to plan, build, and complete your project.
 
-You'll need to submit some key deliverables along the way to keep you on track. Finally, at the end of project week you'll present your completed project to the class.
+You'll need to submit some key deliverables along the way to keep you on track. To help you through this process, we've included this guide to walk you through the individual steps outlined below so that you can be sure you're not missing anything along the way.
 
-To help you through this process, we've included this guide to walk you through the individual steps outlined below (and shown above) so that you can be sure you're not missing anything along the way.
+## 1. Project info
 
-![The project journey](./assets/project-journey.png)
-
-## Project info
-
-Before you start planning, review the [project requirements](../project-requirements/README.md) to understand what features you must implement in your project. Then, review the [project details](../project-details/README.md), which includes helpful tips to get started.
-
-## 1. Project planning
-
-Project week starts with project planning. For more details and the specific requirements, see the [Data Management System requirements](../project-requirements/README.md).
-
-When you submit your project planning materials your proposal will either be approved, or you'll receive feedback and be asked to make adjustments before a final approval can be given.
+Before you start planning, review the [Project Requirements and Guidance](../project-requirements-and-guidance/README.md) document to understand what features you must implement in your project. This document also includes helpful tips for getting started.
 
 ## 2. Create a GitHub repo
 
-Once your project proposal is approved, create the public GitHub repo that you'll use for the project. See the [Data Management System GitHub Link](../project-github-repo-link-deliverable/README.md) for more details.
+Once your project proposal is approved, create the public GitHub repo that you'll use for the project. For more details, see the [Project GitHub Repo Link Deliverable](../project-github-repo-link-deliverable/README.md).
 
 ## 3. Build the project
 
-The fun part! Start building your project! The printable [project requirements PDF](../project-requirements/assets/project-requirements.pdf) may be useful for checking items off as you go through project week.
+The fun part! Start building your project! The printable [project requirements PDF](../project-requirements-and-guidance/assets/project-requirements.pdf) may be useful for checking items off as you go through the project.
 
-## 4. Deploy the work you have so far
+## 4. Deploy your completed project
 
-During project week, you'll deploy your project to the internet and submit a link to your deployed app. See the [Data Management System deployment](../project-deployed-app-link-deliverable/README.md) for more details.
+After you've finished the project, you'll share a JAR file to GitHub so others can download and use your project easily. See the [Project Deployed App Link Deliverable](../project-deployed-app-link-deliverable/README.md) for more details.
 
-Continue working on your project until presentation day.
+## 5. Submit a link to your completed project
 
-## 5. Present your project
-
-Project week ends with a presentation of your project!
+Submit a link to your project's JAR file on GitHub. For more details, See the [Project Deployed App Link Deliverable](../project-deployed-app-link-deliverable/README.md).

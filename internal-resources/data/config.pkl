@@ -10,9 +10,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Module Name]"
+  friendlyName = "Java Data Management System Project"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk"
+  name = "java-data-management-system-project"
   type = "Project"
 }
 
@@ -22,15 +22,26 @@ courses {
   // ! a canvas-landing-page directory is added to this repo.)
   new {
     // Do not remove this fallback course!
-    name = "fallback"
-    isHeaderModuleNavShown = false
-    isFooterLessonNavShown = false
+    name = "jda"
     microlessons {
       // add microlessons here, in the order they should be delivered
       mls.projectJourney
-      mls.projectRequirements
-      mls.projectDetails
-      mls.projectDeliverables
+      mls.projectRequirementsAndGuidance
+      mls.projectGitHubRepoLinkDeliverable
+      mls.projectDeployedAppLinkDeliverable
+      mls.projectRequirementsPdf
+    }
+  }
+  new {
+    // Do not remove this fallback course!
+    name = "fallback"
+    microlessons {
+      // add microlessons here, in the order they should be delivered
+      mls.projectJourney
+      mls.projectRequirementsAndGuidance
+      mls.projectGitHubRepoLinkDeliverable
+      mls.projectDeployedAppLinkDeliverable
+      mls.projectRequirementsPdf
     }
   }
 }

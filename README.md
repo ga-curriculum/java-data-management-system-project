@@ -1,31 +1,35 @@
-# ![[Data Management System]](./assets/tktk-hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Java Data Management System Project</span>
+</h1>
 
 ## About
 
-This module focuses on Java project design - inhertiance, polymorphism, abstract classes, interfaces, design patterns, and test-driven development. 
-The project for this module is the creation of database management system that can store and create custom data objects that can be manipulated by the user. 
-
-## Prerequisites
-
-Students should be able to use variables and collections, manage user input, write functions, use control flow, create classes and objects, handle exceptions, debug, exhibit inheritance and polymorphism using interfaces and abstract classes, use design patterns, and develop via test-driven development in Java. 
+This project focuses on Java project design - inheritance, polymorphism, abstract classes, interfaces, design patterns, and test-driven development. The goal of this project is to create a data management system that can store and create custom data objects that can be manipulated by the user.
 
 ## Content
 
 [Project Journey](./project-journey/README.md)
 
-[Project Requirements](./project-requirements/README.md)
-
-[Project Details](./project-details/README.md)
+[Project Requirements and Guidance](./project-requirements-and-guidance/README.md)
 
 [Project GitHub Repo Link Deliverable](./project-github-repo-link-deliverable/README.md)
 
 [Project Deployed App Link Deliverable](./project-deployed-app-link-deliverable/README.md)
 
-[Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
+[Project Requirements PDF](./project-requirements-and-guidance/assets/project-requirements.pdf)
 
-[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1Qx0SUdLx0G77HilwGPVHRYj8Fu3CUrBKQ20WsaWgqLw/edit?usp=sharing)
+## Internal
 
-## Internal resources
+### Content
+
+[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1u_xncPrOdDfxnoKuVC02OjSoFp32DMPk4c9zc8Jtg-Q/edit)
+
+### Prerequisites
+
+Students should be able to use variables and collections, manage user input, write functions, use control flow, create classes and objects, handle exceptions, debug, exhibit inheritance and polymorphism using interfaces and abstract classes, use design patterns, and develop via test-driven development in Java.
+
+### Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
 
