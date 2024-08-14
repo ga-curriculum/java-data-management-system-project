@@ -105,7 +105,7 @@ Here are some quick tips to get your project started:
 
 ### Project assistance
 
-Your instructor team will provide guidelines for reaching out for help during project week.
+Your instructor team will provide guidelines for reaching out for help during the project.
 
 ### Presentation ideas
 

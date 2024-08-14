@@ -13,7 +13,7 @@ This is the repo for an individual Java Data Management System Project. It inclu
 - Java Data Management System Project GitHub Repo Link Deliverable
 - Java Data Management System Project Feedback [in Canvas only]
 
-## Customizing your project week
+## Customizing your project delivery
 
 You should not add, remove, or alter any project requirements.
 
