@@ -37,7 +37,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 - Users can conduct a search to find objects based on their properties.
 - Users can update existing objects.
 - Users can delete specific objects.
-- Users can gracefully close the application.
+- Users can gracefully close the application using a quit option present in the app's menu.
 - When an object is created, the app saves it to a data file.
 - When an existing object is updated, the app saves the updated data back to the data file, replacing the old data.
 - When an existing object is deleted, the app removes the data from the data file.
