@@ -9,8 +9,8 @@ This is the repo for an individual Java Data Management System Project. It inclu
 
 - Java Data Management System Project Journey
 - Java Data Management System Project Requirements and Guidance
-- Java Data Management System Project GitHub Repo Link Deliverable
-- Java Data Management System Project GitHub Repo Link Deliverable
+- Java Data Management System Project GitHub Repo URL Deliverable
+- Java Data Management System Project GitHub Repo URL Deliverable
 - Java Data Management System Project Feedback [in Canvas only]
 
 ## Customizing your project delivery
